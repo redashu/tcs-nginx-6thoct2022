@@ -22,3 +22,24 @@
 
 <img src="ins.png">
 
+
+### nginx configuration details 
+
+<img src="conf.png">
+
+### starting nginx service 
+
+<img src="start.png">
+
+### default http port and document location 
+
+<img src="l.png">
+
+### access default app
+
+<img src="app.png">
+
+### summary 
+
+<img src="sum.png">
+
