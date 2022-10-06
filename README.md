@@ -1,1 +1,1 @@
-## Nginx admin traing 
+## Nginx admin training 
