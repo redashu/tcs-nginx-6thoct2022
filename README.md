@@ -8,5 +8,11 @@
 
 <img src="backend.png">
 
+### PHp backend with nginx 
+
+<img src="gateway.png">
+
+
+
 
 
