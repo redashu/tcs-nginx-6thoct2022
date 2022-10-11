@@ -38,3 +38,17 @@
 
 <img src="vm3.png">
 
+## TIme for COnfiguring VM1 as LoadBalancer 
+
+<img src="lbng.png">
+
+### COnfiguring Nginx as LB 
+
+<img src="lbfinal.png">
+
+### In both vm you make sure you have allowed http request 
+
+<img src="firewall.png">
+
+
+
