@@ -20,4 +20,17 @@
 
 <img src="wg.png">
 
+### LB health check configure  ### this is not working as of now
+
+<img src="health.png">
+
+### going with another option 
+
+<img src="health1.png">
+
+### more health check options 
+
+<img src="more.png">
+
+
 
