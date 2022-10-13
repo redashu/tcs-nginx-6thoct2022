@@ -31,4 +31,8 @@
 
 <img src="rvc.png">
 
+### starting nginx with selinux disabled 
+
+<img src="st.png">
+
 
