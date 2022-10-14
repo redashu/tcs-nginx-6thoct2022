@@ -21,3 +21,11 @@
 
 <img src="snap.png">
 
+### Node3 apache http conf 
+
+<img src="httpd.png">
+
+### node 3 nginx conf 
+
+<img src="ng.png">
+
