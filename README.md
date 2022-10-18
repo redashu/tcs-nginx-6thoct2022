@@ -21,3 +21,19 @@
 <img src="compress.png">
 
 
+## Understanding cache 
+
+<img src="cache1.png">
+
+### Default location and directory by nginx 
+
+<img src="cache2.png">
+
+### lets configure cache in /etc/nginx/nginx.conf 
+
+<img src="cache3.png">
+
+### putting cache time limit with response code of http proto 
+
+<img src="response.png">
+
