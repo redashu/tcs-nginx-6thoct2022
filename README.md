@@ -37,3 +37,8 @@
 
 <img src="response.png">
 
+### restarting nginx for cache configure 
+
+<img src="res.png">
+
+
