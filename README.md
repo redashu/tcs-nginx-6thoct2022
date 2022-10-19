@@ -9,3 +9,17 @@
 <img src="cdn2.png">
 
 
+## Now we are getting started with Performance tunning in nginx 
+
+<img src="perform.png">
+
+### On vm 3 -- installing nginx and ab 
+
+<img src="install.png">
+
+### using ab command to test http request 
+
+<img src="test.png">
+
+
+
