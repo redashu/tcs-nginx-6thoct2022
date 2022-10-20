@@ -16,4 +16,16 @@
 
 <img src="conf.png">
 
+### log custom 
+
+<img src="log1.png">
+
+### log rotation 
+
+<img src="log2.png">
+
+## nginx vs nginx plus 
+
+<img src="ngp.png">
+
 
